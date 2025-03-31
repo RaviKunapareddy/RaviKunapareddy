@@ -48,22 +48,41 @@ It’s to build systems people can trust — and use.
 ## 🧠 Projects That Show the Work
 
 ### 🩺 [RAG-Based Healthcare Assistant](https://github.com/RaviKunapareddy/Raviteja-Kunapareddy-AI-Portfolio/tree/main/3_genai_systems/rag-healthcare-assistant)
-Semantic search + Gemini-powered answer generation using medical Q&A data. Feedback logging, dynamic prompts, domain filters — built for real-world usage.
+- 🔍 Semantic search using FAISS + Sentence Transformers
+- 💡 Integrated Gemini API for answer generation
+- 🩺 Built-in domain filtering (medical categories)
+- 📝 Logs feedback + adapts prompts dynamically
+- ✅ Safety-first output: disclaimers, fallback modes
 
 ### 📈 [LLM Fine-Tuning on Financial Filings](#)
-Finetuning LLaMA 2 using LoRA on SEC 10-Ks. Outputs structured JSON insights from unstructured documents. *(Coming Soon)*
+- 🧾 Uses SEC 10-K filings for real-world financial data
+- 🧠 Fine-tuning with LoRA on open-source LLaMA 2
+- 🗂️ Extracts structured insights in JSON format
+- 🚧 Coming soon — pipeline & eval in progress
 
 ### 🕸️ [AI Multi-Agent System](#)
-CrewAI and LangGraph-based system to coordinate reasoning agents for research, planning, and execution. *(Coming Soon)*
+- 🤖 Built with CrewAI + LangGraph agent orchestration
+- 🧠 Modular tools with planning + memory
+- 🔗 Agent-to-agent collaboration + decision workflows
+- 🚧 In development — agent configs being tested
 
 ### 🤖 [AI Intent Chatbot (TensorFlow)](https://github.com/RaviKunapareddy/AI-Chatbot)
-A real-time chatbot using bag-of-words, intent classification, and response generation — solid NLP fundamentals in action.
+- 🧠 Intent classification with NLTK + Bag-of-Words
+- 🗣️ Real-time response generation with rule-based logic
+- ⚙️ TensorFlow model trained on custom intent set
+- 📦 Simple + extensible chatbot architecture
 
 ### 🎬 [Movie Recommendation System (SVD)](https://github.com/RaviKunapareddy/Movie-Recommendation-System)
-Matrix factorization on MovieLens dataset with top-N predictions — built with Surprise library.
+- 🎯 Built with Surprise library + SVD algorithm
+- 🧩 Personalized top-N movie predictions
+- 📊 Based on MovieLens ratings dataset
+- ⚡ Fast & explainable recommendation pipeline
 
 ### 🖼️ [CNN Image Classifier (CIFAR-10)](https://github.com/RaviKunapareddy/Image-Classifier)
-High-accuracy image classifier trained from scratch using Keras. Clean architecture, saved model, and real-time prediction support.
+- 🧠 Convolutional Neural Network built from scratch
+- 🖼️ Trained on CIFAR-10 dataset with Keras
+- 🧪 Achieved 98% classification accuracy
+- 💾 Includes saved model and prediction script
 
 ---
 
