@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="./assets/banner-dark.png" alt="Raviteja Kunapareddy - AI Engineer Banner" width="100%">
+</p>
+
+# 👋 Hey, I’m Raviteja Kunapareddy
+
+AI Engineer focused on building systems that actually work in the real world — whether it’s fine-tuning LLMs, optimizing retrieval pipelines, or creating multi-agent tools that think before they act.
+
+🎓 Master’s in MIS @ Northern Illinois University  
+💼 Former AI Engineer @ TCS (AWS, MLOps, real-time NLP systems)  
+🚀 Now building GenAI systems that are usable, safe, and deployable
+
+---
+
+## 🔭 Why I'm Building What I'm Building
+
+Right now, every project I’m working on is part of a bigger goal:
+
 # 👋 Hey, I’m Raviteja Kunapareddy
 
 AI Engineer focused on building systems that actually work in the real world — whether it’s fine-tuning LLMs, optimizing retrieval pipelines, or creating multi-agent tools that think before they act.
