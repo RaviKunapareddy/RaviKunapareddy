@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-dark.png" alt="Raviteja Kunapareddy - AI Engineer Banner" width="100%">
+  <img src="./banner-dark.png" alt="Raviteja Kunapareddy - AI Engineer Banner" width="100%">
 </p>
 
 # 👋 Hey, I’m Raviteja Kunapareddy
