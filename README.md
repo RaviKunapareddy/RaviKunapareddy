@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./assets/banner-dark.png" alt="Raviteja Kunapareddy - AI Engineer Banner" width="100%">
+</p>
+
 # 👋 Hey, I’m Raviteja Kunapareddy
 
 AI Engineer focused on building systems that actually work in the real world — whether it’s fine-tuning LLMs, optimizing retrieval pipelines, or creating multi-agent tools that think before they act.
