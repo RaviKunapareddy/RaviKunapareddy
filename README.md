@@ -27,8 +27,8 @@
 
 | Project | Type | Skills |
 |--------|------|--------|
-| [Student Score Predictor](https://github.com/RaviKunapareddy/student-score-predictor-linear) | Linear Regression | 📈 Regression, 📊 Visualization |
-| [Insurance Cost Estimator](https://github.com/RaviKunapareddy/insurance-cost-predictor-xgboost) | XGBoost + SHAP | 🎯 SHAP, 💡 Feature Importance |
+| [Student Score Predictor](https://github.com/RaviKunapareddy/student-score-regression) | Linear Regression | 📈 Regression, 📊 Visualization |
+| [Insurance Cost Estimator](https://github.com/RaviKunapareddy/insurance-cost-xgboost) | XGBoost + SHAP | 🎯 SHAP, 💡 Feature Importance |
 | [Customer Clustering](https://github.com/RaviKunapareddy/mall-customer-clustering) | KMeans, PCA | 🔍 Segmentation, 🧩 Unsupervised |
 | [Sentiment Classifier](https://github.com/RaviKunapareddy/naive-bayes-sentiment-nlp) | Naive Bayes NLP | 🗣️ Text Cleaning, 📊 Metrics |
 | [Movie Recommender](https://github.com/RaviKunapareddy/movie-recommender-svd) | SVD Recommender | 🤝 User-Item Matching |
