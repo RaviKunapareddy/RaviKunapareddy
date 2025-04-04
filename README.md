@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Raviteja Kunapareddy — ML/NLP Engineer building GenAI systems that explain, adapt, and reason.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML-End_to_End-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-Structured_Text-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GenAI-RAG_+_Agents-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ML-End_to_End-green?style=flat-square"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NLP-Structured_Text-blue?style=flat-square"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GenAI-RAG_+_Agents-purple?style=flat-square"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Explainability-SHAP_Deep-orange?style=flat-square"/>
 </p>
 
