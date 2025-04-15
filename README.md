@@ -54,7 +54,7 @@
 | [RAG Healthcare Assistant](https://github.com/RaviKunapareddy/rag-healthcare-assistant) | RAG + Hallucination Eval | Retrieval-augmented answers with Gemini, category filtering, trust scoring |
 | [Semantic Task Assistant](https://github.com/RaviKunapareddy/semantic-task-assistant-vector) | Vector Search + Feedback Loop | Embedding assistant with reranking, structured JSON replies |
 | [FinGPT + LoRA](https://github.com/RaviKunapareddy/fingpt-financial-llm-analyzer) | LLM Fine-Tuning (QLoRA) | Custom LLM on 10-K filings with parsing + explainability |
-| [CrewAI Agent Planner](https://github.com/RaviKunapareddy/crewai-multitool-agent-system) | Tools + Reward Logic | Reasoning agent with simulated RL reward adaptation |
+| [Sales Multi-Agent AI System](https://github.com/RaviKunapareddy/Sales-Multi-Agent-AI) | LangGraph + Modular Agents + LLM Reasoning | Multi-agent pipeline that analyzes leads, scores intent, writes emails, times follow-ups, and logs CRM events using Gemini-powered workflows |
 | [LangGraph + LangServe](https://github.com/RaviKunapareddy/langgraph-streaming-agent) | Streaming + Deployment | Real-time pipeline + production API |
 | [Prompt Engineering Playground](https://github.com/RaviKunapareddy/prompt-style-gallery) | Prompt Reasoning | ReAct vs CoT vs Toolformer side-by-side styles |
 
