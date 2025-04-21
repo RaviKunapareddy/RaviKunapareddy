@@ -52,7 +52,7 @@
 | Project | Core Concept | Description |
 |--------|---------------|-------------|
 | [RAG Healthcare Assistant](https://github.com/RaviKunapareddy/rag-healthcare-assistant) | RAG + Hallucination Eval | Retrieval-augmented answers with Gemini, category filtering, trust scoring |
-| [Semantic Task Assistant](https://github.com/RaviKunapareddy/semantic-task-assistant-vector) | Vector Search + Feedback Loop | Embedding assistant with reranking, structured JSON replies |
+| [CrewAI-Orchestrated-Agent-Framework](https://github.com/RaviKunapareddy/CrewAI-Orchestrated-Agent-Framework) | CrewAI + RAG + Vector Search + Feedback Loop | Multi-agent stack with CrewAI coordination, memory (Qdrant), RAG via arXiv + FAISS, email tools, Gemini synthesis, and JSONL feedback analysis |
 | [FinGPT + LoRA](https://github.com/RaviKunapareddy/fingpt-financial-llm-analyzer) | LLM Fine-Tuning (QLoRA) | Custom LLM on 10-K filings with parsing + explainability |
 | [Sales Multi-Agent AI System](https://github.com/RaviKunapareddy/Sales-Multi-Agent-AI) | LangGraph + Modular Agents + LLM Reasoning | Multi-agent pipeline that analyzes leads, scores intent, writes emails, times follow-ups, and logs CRM events using Gemini-powered workflows |
 | [LangGraph + LangServe](https://github.com/RaviKunapareddy/langgraph-streaming-agent) | Streaming + Deployment | Real-time pipeline + production API |
