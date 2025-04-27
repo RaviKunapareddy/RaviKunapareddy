@@ -62,11 +62,11 @@ I specialize in **Semantic AI**, **GenAI Systems**, **Multi-Agent Architectures*
 
 | Project | Description |
 |:--------|:------------|
-| 📈 [Student Score Regression](./student-score-regression.md) | Predicting student test scores using linear regression. |
-| 📊 [Insurance Cost Prediction (XGBoost + SHAP)](./insurance-cost-xgboost.md) | Interpretable regression model predicting insurance expenses. |
-| 💳 [Loan Default Prediction (XGBoost + SHAP)](./loan-default-prediction-shap.md) | Predicting loan defaults with feature-level explanations. |
-| 🛒 [Inventory Demand Forecasting (XGBoost + SHAP)](./inventory-demand-forecasting-shap.md) | Time series inventory forecasting with external signals. |
-| 🛠️ [Support Ticket Prioritization (NLP + SHAP)](./support-ticket-priority-nlp.md) | Classifying and explaining urgency levels of support tickets. |
+| 📈 [Student Score Regression](https://github.com/RaviKunapareddy/student-score-regression) | Predicting student test scores using linear regression. |
+| 📊 [Insurance Cost Prediction (XGBoost + SHAP)](https://github.com/RaviKunapareddy/insurance-cost-xgboost) | Interpretable regression model predicting insurance expenses. |
+| 💳 [Loan Default Prediction (XGBoost + SHAP)](https://github.com/RaviKunapareddy/loan-default-prediction-shap) | Predicting loan defaults with feature-level explanations. |
+| 🛒 [Inventory Demand Forecasting (XGBoost + SHAP)](https://github.com/RaviKunapareddy/inventory-demand-forecasting-shap) | Time series inventory forecasting with external signals. |
+| 🛠️ [Support Ticket Prioritization (NLP + SHAP)](https://github.com/RaviKunapareddy/support-ticket-priority-nlp) | Classifying and explaining urgency levels of support tickets. |
 
 ---
 
@@ -74,11 +74,11 @@ I specialize in **Semantic AI**, **GenAI Systems**, **Multi-Agent Architectures*
 
 | Project | Description |
 |:--------|:------------|
-| 🎬 [Movie Recommender System (SVD)](./movie-recommender-svd.md) | Collaborative filtering-based movie recommendations. |
-| 🗣️ [Naive Bayes Sentiment Classifier (NLP)](./naive-bayes-sentiment-nlp.md) | Basic movie review sentiment analysis with Naive Bayes. |
-| 🛍️ [Mall Customer Clustering (UMAP + HDBSCAN)](./mall-customer-clustering.md) | Visualizing and segmenting mall customers. |
-| 📊 [RFM Customer Segmentation](./rfm-customer-segmentation.md) | Clustering retail customers based on purchasing behavior. |
-| 🧪 [CIFAR-10 Image Classification (CNN)](./cifar10-image-classification-cnn.md) | Deep learning CNN applied to image recognition. |
+| 🎬 [Movie Recommender System (SVD)](https://github.com/RaviKunapareddy/movie-recommender-svd) | Collaborative filtering-based movie recommendations. |
+| 🗣️ [Naive Bayes Sentiment Classifier (NLP)](https://github.com/RaviKunapareddy/naive-bayes-sentiment-nlp) | Basic movie review sentiment analysis with Naive Bayes. |
+| 🛍️ [Mall Customer Clustering (UMAP + HDBSCAN)](https://github.com/RaviKunapareddy/mall-customer-clustering) | Visualizing and segmenting mall customers. |
+| 📊 [RFM Customer Segmentation](https://github.com/RaviKunapareddy/rfm-customer-segmentation) | Clustering retail customers based on purchasing behavior. |
+| 🧪 [CIFAR-10 Image Classification (CNN)](https://github.com/RaviKunapareddy/cifar10-image-classification-cnn) | Deep learning CNN applied to image recognition. |
 
 ---
 
@@ -86,13 +86,13 @@ I specialize in **Semantic AI**, **GenAI Systems**, **Multi-Agent Architectures*
 
 | Project | Description |
 |:--------|:------------|
-| 🧑‍⚕️ [Healthcare RAG Assistant (RAG + Gemini + Trust)](./rag-healthcare-assistant.md) | Medical QA bot with dense retrieval, category filtering, and source attribution. |
-| 🤖 [Semantic Witty AI Assistant (Dense Retrieval + Feedback)](./semantic-witty-ai-assistant.md) | Embedding-powered chatbot supporting witty replies and feedback-driven learning. |
-| 🛠️ [CrewAI-Orchestrated Agent Framework (Multi-Agent Decision Making)](./CrewAI-Orchestrated-Agent-Framework.md) | Multi-agent simulation using CrewAI for C-suite decision-making. |
-| 💰 [FinGPT: Financial LLM Analyzer (QLoRA Fine-Tuning)](./fingpt-financial-llm-analyzer.md) | Fine-tuned financial language model for SEC filing analysis. |
-| 🎯 [Sales Multi-Agent AI System (LangGraph + Modular Agents)](./Sales-Multi-Agent-AI.md) | Modular AI agents coordinating full sales cycle tasks (lead research → CRM logging). |
-| 🧩 [RL Maze Solver (Q-Learning + React Visualization)](./rl-maze-solver.md) | Reinforcement learning agent solving mazes + frontend animation visualization. |
-| 🎨 [Prompt Style Gallery (Prompt Engineering Showcase)](./prompt-style-gallery.md) | Dynamic LLM prompt styles and outputs gallery — creative and structured prompts. |
+| 🧑‍⚕️ [Healthcare RAG Assistant (RAG + Gemini + Trust)](https://github.com/RaviKunapareddy/rag-healthcare-assistant) | Medical QA bot with dense retrieval, category filtering, and source attribution. |
+| 🤖 [Semantic Witty AI Assistant (Dense Retrieval + Feedback)](https://github.com/RaviKunapareddy/semantic-witty-ai-assistant) | Embedding-powered chatbot supporting witty replies and feedback-driven learning. |
+| 🛠️ [CrewAI-Orchestrated Agent Framework (Multi-Agent Decision Making)](https://github.com/RaviKunapareddy/CrewAI-Orchestrated-Agent-Framework) | Multi-agent simulation using CrewAI for C-suite decision-making. |
+| 💰 [FinGPT: Financial LLM Analyzer (QLoRA Fine-Tuning)](https://github.com/RaviKunapareddy/fingpt-financial-llm-analyzer) | Fine-tuned financial language model for SEC filing analysis. |
+| 🎯 [Sales Multi-Agent AI System (LangGraph + Modular Agents)](https://github.com/RaviKunapareddy/Sales-Multi-Agent-AI) | Modular AI agents coordinating full sales cycle tasks (lead research → CRM logging). |
+| 🧩 [RL Maze Solver (Q-Learning + React Visualization)](https://github.com/RaviKunapareddy/rl-maze-solver) | Reinforcement learning agent solving mazes + frontend animation visualization. |
+| 🎨 [Prompt Style Gallery (Prompt Engineering Showcase)](https://github.com/RaviKunapareddy/prompt-style-gallery) | Dynamic LLM prompt styles and outputs gallery — creative and structured prompts. |
 
 ---
 
