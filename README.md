@@ -41,16 +41,19 @@ I specialize in **Semantic AI**, **GenAI Systems**, **Multi-Agent Architectures*
 
 # 🛠️ Tech Stack Overview
 
-| Area | Tools |
-|:-----|:------|
-| Machine Learning | Scikit-Learn, XGBoost, SHAP, LightGBM |
-| Deep Learning | TensorFlow, Keras, CNNs |
-| LLM APIs | OpenAI GPT, Gemini 1.5 Pro |
-| RAG & Retrieval | FAISS, Sentence Transformers, CrossEncoder |
-| Multi-Agent Systems | CrewAI, LangGraph |
-| Backend | Python (FastAPI, Streamlit) |
-| Frontend | React.js |
-| Other Tools | GitHub Actions, Conda, Docker (basics) |
+| Area                | Tools                                                                 |
+|:--------------------|:---------------------------------------------------------------------|
+| Machine Learning    | Scikit-Learn, XGBoost, SHAP, LightGBM                                 |
+| Deep Learning       | TensorFlow, Keras, CNNs                                               |
+| NLP                 | NLTK, spaCy, HuggingFace Transformers, TF-IDF                        |
+| Data Handling       | Pandas, NumPy                                                         |
+| Visualization       | Matplotlib, Seaborn, Plotly                                           |
+| LLM APIs            | OpenAI GPT, Gemini 1.5 Pro                                            |
+| RAG & Retrieval     | FAISS, Sentence Transformers, CrossEncoder                            |
+| Multi-Agent Systems | CrewAI, LangGraph                                                     |
+| Backend             | Python (FastAPI, Streamlit)                                           |
+| Frontend            | React.js                                                              |
+| DevOps/Other Tools  | GitHub Actions, Conda, Docker (basics), Pre-commit, Pytest            |
 
 ---
 
