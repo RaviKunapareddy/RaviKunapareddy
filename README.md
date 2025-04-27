@@ -26,13 +26,18 @@ I specialize in **Semantic AI**, **GenAI Systems**, **Multi-Agent Architectures*
 <details>
 <summary>🧠 Skills Covered Across Projects</summary>
 
-- ✅ Machine Learning (XGBoost, SHAP Explainability)
-- ✅ Deep Learning (CNNs, Fine-tuning LLMs with QLoRA)
-- ✅ Semantic Search (Sentence Transformers, FAISS)
-- ✅ RAG Systems (Dense + Filtered Retrieval Pipelines)
-- ✅ Multi-Agent Coordination (CrewAI, LangGraph)
-- ✅ RL Agents (Q-Learning, Policy Extraction, Visualization)
-- ✅ Frontend Integrations (React + LLM APIs)
+- ✅ Machine Learning: Regression, Classification, Clustering, XGBoost, LightGBM, SHAP Explainability
+- ✅ Deep Learning: CNNs, Fine-tuning LLMs (QLoRA), TensorFlow, Keras
+- ✅ NLP: Tokenization, Embeddings, TF-IDF, spaCy, NLTK, HuggingFace Transformers
+- ✅ Semantic Search: Sentence Transformers, FAISS, CrossEncoder
+- ✅ RAG Systems: Dense + Filtered Retrieval Pipelines
+- ✅ Multi-Agent Coordination: CrewAI, LangGraph
+- ✅ RL Agents: Q-Learning, Policy Extraction, Visualization
+- ✅ Data Handling: Pandas, NumPy, Feature Engineering
+- ✅ Visualization: Matplotlib, Seaborn, Plotly, SHAP plots
+- ✅ Deployment: FastAPI, Streamlit, LangServe
+- ✅ Frontend Integrations: React + LLM APIs
+- ✅ DevOps/Testing: GitHub Actions, Docker, Pre-commit, Pytest
 - ✅ Prompt Engineering Playgrounds
 
 </details>
